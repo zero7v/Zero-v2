@@ -16,7 +16,7 @@ global.lolkey = 'Alphabot'
 global.xkey = 'Alphabot'
 global.APIs = { // API Prefix
   // name: 'https://website'
-  nrtm: 'https://api-alphabot.herokuapp.com',
+  nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
