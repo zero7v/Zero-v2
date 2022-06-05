@@ -12,8 +12,8 @@ global.owner = [
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.lolkey = 'Alphabot'
-global.xkey = 'Alphabot'
+global.lolkey = 'YourApikey'
+global.xkey = 'YourApikey'
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -28,13 +28,12 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'vimukthifg',
+  'https://api.xteam.xyz': 'YourApikey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
-  'https://api-alphabot.herokuapp.com': 'Alphabot'
 }
 global.wm = '                「 ZERO-BOT-MD⁩ 」' //Main Watermark
 
