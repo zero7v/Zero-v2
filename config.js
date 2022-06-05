@@ -12,8 +12,8 @@ global.owner = [
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.lolkey = 'YourApikey'
-global.xkey = 'YourApikey'
+global.lolkey = 'd6fb31b64767b418'
+global.xkey = 'd6fb31b64767b418'
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
